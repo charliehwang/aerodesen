@@ -1,4 +1,4 @@
-app = "aerodesen-7b86"
+app = "aerodesen"
 primary_region = "sjc"
 kill_signal = "SIGINT"
 kill_timeout = 5
